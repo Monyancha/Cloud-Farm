@@ -67,4 +67,4 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## License
 
-Cloud Farm is released under the [GPLv3 license](LICENSE.txt).
+Cloud Farm is released under the [MIT license](LICENSE.txt).
