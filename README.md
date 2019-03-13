@@ -23,11 +23,11 @@ Cloud Farm uses [Laravel](http://laravel.com), the best existing PHP framework, 
 
 ## Docker
 
-It is possible to containerise Akaunting using the [`docker-compose`](docker-compose.yml) file. Here are a few commands:
+It is possible to containerise cloud-farm using the [`docker-compose`](docker-compose.yml) file. Here are a few commands:
 
 ```
 # Build the app
-docker build -t akaunting .
+docker build -t cloudfarm .
 
 # Run the app
 docker-compose up -d
@@ -51,7 +51,7 @@ Fork the repository, make the code changes then submit a pull request.
 
 Please, be very clear on your commit messages and pull requests, empty pull request messages may be rejected without reason.
 
-When contributing code to Akaunting, you must follow the PSR coding standards. The golden rule is: Imitate the existing Akaunting code.
+When contributing code to Akaunting, you must follow the PSR coding standards. The golden rule is: Imitate the existing cloudfarm code.
 
 By participating in this project you agree to abide by its terms.
 
